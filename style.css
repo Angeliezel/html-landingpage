@@ -151,54 +151,14 @@ body
     background-size: cover;
     background-position: center;
 }
-.aboutpage {
-    position: relative;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-}
 
 #text {
     position: relative;
     font-size: 5em;
     color: #0ef;
 }
-.backgroundContact {
-    width: 100%;
-    height: 100vh;
-    background-image: url(img/contact.png);
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
-}
-.contactpage {
-    position: relative;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-}
 
-#text {
-    position: relative;
-    font-size: 5em;
-    color: #0ef;
-}
-.backgroundHobbies {
-    width: 100%;
-    height: 100vh;
-    background-image: url(img/hobbies.png);
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
-}
-.hobbiespage {
-    position: relative;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
+.
 }
 
 #text {
