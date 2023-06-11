@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> My Resume </title>
+</head>
+<style>
+P
+{
+border:5px solid blue
+}
+</style>
+<p>
+
+<body bgcolor="pink" text="black">
+<center>
+<h1>
+<u> MY RESUME </u>
+</h1>
+
+<img src="angel.jpg" width=100 height=100 hspace=300 align= right >
+<h3> Name: Angeliezel A. Castillo </h3>
+<h3> Email Address: angeliezelcastillo1997@gmail.com </h3>
+<h3> Contact no: 09558369492 </h3><hr>
+
+
+<h2>
+<div style="background-color:Orange;color:black;padding:05px;">
+<u> CAREER OBJECTIVE </u>
+</h2>
+
+<h3>	To attain success in an environment of growth and excellence, obtain employment that will satisfy my professional needs and promote my personal growth, and
+personal and organizational objectives	 <br> 			
+</h3>
+
+
+<h2>
+<div style="background-color:Orange;color:black;padding:05px;">
+<u> EDUCATIONAL ATTAINMENT  </u>
+</h2>
+<ul>
+<b>
+<h3>         Alaminos Elementary School                    2003-2009 
+<h3>         Liceo De San Pablo                            2009-2013
+<h3>		 Bachelor of Science in Information Technology 2021-2025 <br> Pamantasan ng Lungsod ng San Pablo
+</h3>
+<h2>
+<div style="background-color:Orange;color:black;padding:05px;">
+<u> WORK EXPERIENCE </u>
+</h2>
+
+<ul>
+	<b>
+	<h3>
+	<li> ENCODER IN TRUE FAITH MEDICAL CLINIC LTO
+	<li> SECRETARY IN PACIFIC UNION INSURANCE COMPANY
+</ul>
+
+
+<h2>
+<div style="background-color:Orange;color:black;padding:05px;">
+<u> SKILLS </u>
+</h2>
+
+<ul>
+	<b>
+	<h3>
+	<li> Good in communication skills
+	<li> Self motivated
+	<li> Computer skills
+	<li> Management skills
+</ul>
+
+<h2>
+<div style="background-color:Orange;color:black;padding:05px;">
+<u> PERSONAL DETAILS </u>
+</h2>
+<ul>
+	<b>
+	<h3>
+	<li> Name: Angeliezel A. Castillo
+	<li> Relationship: Single
+	<li> Age: 25
+	<li> Hobbies: </li>
+			    <ul>
+			    <li> Singing
+			    <li> Chess
+			    <li> Playing Badminton
+			 
+</ul>
+
+<footer>
+    <p>&copy; 2023 ANGELIEZELCASTILLO</p> 
+</footer>
+</body>
+</p>
+</html>
